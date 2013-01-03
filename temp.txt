@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Hacker News</title>
+    <link>http://news.ycombinator.com/</link>
+    <description>Links for the intellectually curious, ranked by readers.</description>
+    <item>
+      <title>A Pickpocket's Tale</title>
+      <link>http://www.newyorker.com/reporting/2013/01/07/130107fa_fact_green?currentPage=all&amp;src=longreads</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991016&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991016</comments>
+    </item>
+    <item>
+      <title>Reddit's visitors skyrocket in 2012 with 37 billion page views</title>
+      <link>http://news.cnet.com/8301-1023_3-57561466-93/reddits-visitors-skyrocket-in-2012-with-37-billion-page-views/</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991777&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991777</comments>
+    </item>
+    <item>
+      <title>Thoughts on Go after writing 3 websites</title>
+      <link>http://blog.kowalczyk.info/article/uvw2/Thoughts-on-Go-after-writing-3-websites.html</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991330&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991330</comments>
+    </item>
+    <item>
+      <title>Light painting with temperature - cheap thermal imaging</title>
+      <link>http://www.maxjusticz.com/light-painting-with-temperature/</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991765&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991765</comments>
+    </item>
+    <item>
+      <title>John Resig's ‘Secrets of the JavaScript Ninja’ has been released</title>
+      <link>http://www.amazon.com/dp/193398869X/</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4990327&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4990327</comments>
+    </item>
+    <item>
+      <title>The Job Market for C++ Developers (March 2012)</title>
+      <link>http://markcunningham91.blogspot.com/2012/03/job-market-for-c-developers.html</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991658&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991658</comments>
+    </item>
+    <item>
+      <title>Antivirus Makers Struggle to Adapt</title>
+      <link>http://www.nytimes.com/2013/01/01/technology/antivirus-makers-work-on-software-to-catch-malware-more-effectively.html?hp&amp;_r=0</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991370&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991370</comments>
+    </item>
+    <item>
+      <title>Houston, we have a(nother) problem: Space travel harms brain</title>
+      <link>http://phys.org/news/2012-12-houston-problem-space-brain.html</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991586&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991586</comments>
+    </item>
+    <item>
+      <title>How and why I run my own DNS servers</title>
+      <link>http://bugsplat.info/2012-12-31-how-i-run-my-own-dns.html</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4989847&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4989847</comments>
+    </item>
+    <item>
+      <title>Reader-submitted Objective-C / XCode tips of 2012</title>
+      <link>http://www.nshipster.com/reader-submissions-new-years-2013/</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4990735&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4990735</comments>
+    </item>
+    <item>
+      <title>Help your favorite companies grow - Perfect Audience seeks full-stack dev</title>
+      <link>http://news.ycombinator.com/item?id=4991835</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991835&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991835</comments>
+    </item>
+    <item>
+      <title>A Closer Look At The Christmas Eve Outage</title>
+      <link>http://techblog.netflix.com/2012/12/a-closer-look-at-christmas-eve-outage.html</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991135&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991135</comments>
+    </item>
+    <item>
+      <title>Thanks a Million</title>
+      <link>http://blog.archive.org/2012/12/31/thanks-a-million/</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991467&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991467</comments>
+    </item>
+    <item>
+      <title>How multi-disk failures happen</title>
+      <link>http://sysadmin1138.net/mt/blog/2012/12/how-multi-disk-failures-happen.shtml</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4989579&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4989579</comments>
+    </item>
+    <item>
+      <title>How I Made a 26-Hour Day</title>
+      <link>http://andrewdumont.me/how-i-made-a-26-hour-day</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4990888&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4990888</comments>
+    </item>
+    <item>
+      <title>Fixing the computer guy posture [pdf]</title>
+      <link>http://kaasplateau.com/stretches.pdf</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4988649&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4988649</comments>
+    </item>
+    <item>
+      <title>How to Contribute to Open Source without Being a Programming Rock Star</title>
+      <link>http://blog.smartbear.com/software-quality/bid/167051/14-Ways-to-Contribute-to-Open-Source-without-Being-a-Programming-Genius-or-a-Rock-Star</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4989417&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4989417</comments>
+    </item>
+    <item>
+      <title>Fractals and Stories</title>
+      <link>http://basecase.org/2012/12/fractals-and-stories/</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991071&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991071</comments>
+    </item>
+    <item>
+      <title>Guy Kawasaki - Four free books</title>
+      <link>https://plus.google.com/+GuyKawasaki/posts/TkA1Knf6EZS</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4989779&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4989779</comments>
+    </item>
+    <item>
+      <title>I’m Bored. What’s Next?</title>
+      <link>http://techcrunch.com/2012/12/30/im-bored-whats-next/</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4989412&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4989412</comments>
+    </item>
+    <item>
+      <title>Debating Microsoft's comments on the Greek Ministry of Education laptops program</title>
+      <link>http://polytechnitis.blogspot.gr/2012/12/debating-microsoft-comments-for-greek.html#more</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4990769&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4990769</comments>
+    </item>
+    <item>
+      <title>The Maximum, Beautiful Product</title>
+      <link>http://techcrunch.com/2012/12/31/the-maximum-beautiful-product/</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991043&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991043</comments>
+    </item>
+    <item>
+      <title>Let's Give Up On The Constitution</title>
+      <link>http://www.nytimes.com/2012/12/31/opinion/lets-give-up-on-the-constitution.html</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991810&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991810</comments>
+    </item>
+    <item>
+      <title>We The People petition: Star Wars</title>
+      <link>https://petitions.whitehouse.gov/petition/sign-executive-order-requiring-immediate-release-original-star-wars-trilogy-dvd-and-blu-ray-disc/YCY7mM7v</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991808&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991808</comments>
+    </item>
+    <item>
+      <title>Gitrep - Discover and organize Github repositories  </title>
+      <link>http://gitrep.com/</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4989441&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4989441</comments>
+    </item>
+    <item>
+      <title>YoungLispers tell how they got into lisp</title>
+      <link>http://www.cliki.net/younglispers</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4990732&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4990732</comments>
+    </item>
+    <item>
+      <title>Egyptian Activists Organize Against Government Plan to Spend $43M on Microsoft</title>
+      <link>http://arabcrunch.com/2012/12/egyptian-open-source-activist-organize-a-silent-demonstration-against-egypts-government-plan-to-spend-43-million-on-microsoft-products.html</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4990828&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4990828</comments>
+    </item>
+    <item>
+      <title>Fay: a subset of Haskell that compiles to JavaScript</title>
+      <link>http://fay-lang.org/</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4989340&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4989340</comments>
+    </item>
+    <item>
+      <title>Simple ATM cards being declined</title>
+      <link>http://status.simple.com/</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991560&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991560</comments>
+    </item>
+    <item>
+      <title>Why we’ve decided to stop producing TNW Magazine for Android</title>
+      <link>http://thenextweb.com/insider/2012/12/30/no-more-tnw-magazine-for-android/39/</link>
+      <description>&lt;a href=&quot;http://news.ycombinator.com/item?id=4991267&quot;&gt;Comments&lt;/a&gt;</description>
+      <comments>http://news.ycombinator.com/item?id=4991267</comments>
+    </item>
+  </channel>
+</rss>
